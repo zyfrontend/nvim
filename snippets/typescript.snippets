@@ -1,0 +1,17 @@
+snippet rnfczy "React Functional Component" b
+import React from 'react';
+import { View, Text } from 'react-native';
+
+const ${1:ComponentName}: React.FC = (props) => {
+  const { route, navigation } = props;
+
+  return (
+    <View>
+      <Text>${1:ComponentName}</Text>
+    </View>
+  );
+};
+
+export default ${1:ComponentName};
+endsnippet
+

@@ -1,0 +1,2 @@
+WRN 2025-10-12T11:26:27.564 ?.12295    server_start:193: Failed to start server: operation not permitted: /var/folders/jm/rcqxrfd129vfly061p0vb8t00000gn/T/nvim.zy/sFaXrl/nvim.12295.0
+WRN 2025-10-12T11:26:44.868 ?.12502    server_start:193: Failed to start server: operation not permitted: /var/folders/jm/rcqxrfd129vfly061p0vb8t00000gn/T/nvim.zy/hrQaeg/nvim.12502.0

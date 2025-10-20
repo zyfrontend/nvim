@@ -10,7 +10,7 @@ vim.o.relativenumber = true
 -- Keep signcolumn on by default
 vim.o.signcolumn = "yes"
 -- 禁用鼠标
--- vim.o.mouse = ""
+vim.o.mouse = ""
 -- 垂直滚动时保持上下各5行的可见区域
 vim.o.scrolloff = 5
 -- 水平滚动时保持左右各8列的可见区域
